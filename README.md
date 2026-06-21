@@ -1,58 +1,66 @@
 <div align="center">
 
-# ⚡ Khalil Ullah
+# 💀 Khalil Ullah
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=DevSecOps+Engineer+in+Progress;Cloud+Security+Architect+in+Making;Python+Automation+Lover;Cyber+Security+Explorer;Building+Secure+Cloud+Systems+%F0%9F%94%92" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=>+Initializing+System...;>+Access+Granted;>+Loading+DevSecOps+Profile...;>+Firewall+Status:+ACTIVE;>+Welcome+Agent+Khalil+Ullah" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63,200:24243e&height=200&section=header&text=WELCOME%20TO%20MY%20GITHUB%20WORLD&fontSize=32&fontColor=00F7FF&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f0f0f&height=220&section=header&text=ACCESS%20GRANTED%20%F0%9F%94%92%20GITHUB%20WORLD&fontSize=28&fontColor=00FF00&animation=fadeIn"/>
 
 </div>
 
 ---
 
-## 🌌 About Me
+## 🧠 SYSTEM PROFILE
 
-🎓 BCS Student at COMSATS University Islamabad, Wah Campus  
+🎓 USER: BCS Student @ COMSATS University Islamabad  
 
-💡 Passionate about **DevSecOps, Cloud Computing & Cyber Security**
+💀 STATUS: ACTIVE LEARNING MODE  
 
-🚀 I love building systems, breaking them, and securing them again
+⚡ SPECIALIZATION: DevSecOps | Cloud Security | Cyber Security  
 
-🌐 Portfolio:  
+---
+
+## 🧬 ABOUT SYSTEM
+
+💡 Passion: Secure System Design & Cloud Infrastructure  
+
+🚀 Mission: Build, Break, Secure, Automate  
+
+🌐 Portfolio Node:  
 https://khaliltechprofile.vercel.app/
 
 ---
 
-## 🧠 Core Strengths
+## 🔐 CORE KNOWLEDGE BASE
 
-- 🧮 Mathematics & Problem Solving  
-- 💻 Operating Systems (Linux Focus)  
-- 🌐 Computer Networks  
+- 🧮 Mathematics & Logic Engine  
+- 💻 Operating Systems (Linux Kernel Level Thinking)  
+- 🌐 Computer Networks (Packet Flow Understanding)  
 - 🧠 Data Structures & Algorithms  
 - 🔐 Cyber Security Fundamentals  
 
 ---
 
-## ⚙️ Currently Learning
+## ⚙️ ACTIVE LEARNING MODULES
 
-- ☁️ AWS / Azure Cloud Computing  
-- ⚙️ DevSecOps (CI/CD Pipelines)  
-- 🐳 Docker & Containers  
-- 🐧 Linux Administration  
+- ☁️ Cloud Computing (AWS / Azure)  
+- ⚙️ DevSecOps Pipeline Automation  
+- 🐳 Docker Containerization  
+- 🐧 Linux System Administration  
 - 🐍 Python Automation Scripts  
-- 🔐 Cloud Security Engineering  
+- 🔐 Cloud Security Architecture  
 
 ---
 
-## 🎯 Career Goal
+## 🎯 MISSION OBJECTIVE
 
-🔥 Become a **DevSecOps + Cloud Security Engineer**  
-☁️ Build scalable, automated, secure cloud systems  
-⚡ Work with real-world production infrastructure  
+> Become a **DevSecOps & Cloud Security Engineer**  
+> Build secure, scalable, automated cloud systems  
+> Defend digital infrastructure like a pro  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 TECH ARSENAL
 
 <div align="center">
 
@@ -62,11 +70,11 @@ https://khaliltechprofile.vercel.app/
 
 ---
 
-## 📊 GitHub Stats (Live Glow)
+## 📊 SYSTEM ANALYTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khalilcui&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khalilcui&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilcui&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -74,7 +82,7 @@ https://khaliltechprofile.vercel.app/
 
 ---
 
-## 🔥 Contribution Streak (Neon Effect)
+## 🔥 ACTIVITY FIREWALL
 
 <div align="center">
 
@@ -84,7 +92,7 @@ https://khaliltechprofile.vercel.app/
 
 ---
 
-## 📈 Activity Graph (Animated Flow)
+## 📡 LIVE ACTIVITY GRID
 
 <div align="center">
 
@@ -94,7 +102,7 @@ https://khaliltechprofile.vercel.app/
 
 ---
 
-## 🐍 Contribution Snake (WOW EFFECT)
+## 🐍 CONTRIBUTION SNAKE PROTOCOL
 
 <div align="center">
 
@@ -104,7 +112,7 @@ https://khaliltechprofile.vercel.app/
 
 ---
 
-## 🏆 GitHub Trophies (Elite Look)
+## 🏆 SYSTEM TROPHIES
 
 <div align="center">
 
@@ -114,37 +122,37 @@ https://khaliltechprofile.vercel.app/
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 CONNECTION PORTS
 
 <div align="center">
 
 <a href="https://github.com/khalilcui">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF00">
 </a>
 
 <a href="https://khaliltechprofile.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black">
+<img src="https://img.shields.io/badge/PORTFOLIO-00FF00?style=for-the-badge&logo=vercel&logoColor=000000">
 </a>
 
 </div>
 
 ---
 
-## 👀 Profile Views (Glow Counter)
+## 👀 ACCESS LOGS
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=khalilcui&color=00f7ff&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=khalilcui&color=00ff00&style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 💬 Final Quote
+## 💬 FINAL SYSTEM MESSAGE
 
 <div align="center">
 
-⚡ “Think like an attacker, build like an engineer, secure like a DevSecOps pro.” ⚡  
+⚡ “Think like an attacker. Build like an engineer. Secure like a DevSecOps warrior.” ⚡  
 
 </div>
 
@@ -152,8 +160,8 @@ https://khaliltechprofile.vercel.app/
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:302b63&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:000000&height=140&section=footer"/>
 
-### 🚀 Thanks for visiting my cyber world 🚀
+### 💀 SYSTEM LOGOUT... BUT SKILLS REMAIN ACTIVE 💀
 
 </div>
