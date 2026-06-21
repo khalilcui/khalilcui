@@ -2,11 +2,9 @@
 
 # ⚡ Khalil Ullah
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=DevSecOps+Engineer+in+Progress;Cloud+Security+Enthusiast;Future+Cloud+Architect;Python+%26+C%2B%2B+Developer;Building+Secure+Systems+%F0%9F%94%92" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=DevSecOps+Engineer+in+Progress;Cloud+Security+Architect+in+Making;Python+Automation+Lover;Cyber+Security+Explorer;Building+Secure+Cloud+Systems+%F0%9F%94%92" />
 
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63,200:24243e&height=220&section=header&text=Welcome%20To%20My%20Digital%20Space&fontSize=35&fontColor=00F7FF&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63,200:24243e&height=200&section=header&text=WELCOME%20TO%20MY%20GITHUB%20WORLD&fontSize=32&fontColor=00F7FF&animation=fadeIn" />
 
 </div>
 
@@ -18,41 +16,39 @@
 
 💡 Passionate about **DevSecOps, Cloud Computing & Cyber Security**
 
-🚀 I build projects, break things, fix them, and learn from everything
+🚀 I love building systems, breaking them, and securing them again
 
 🌐 Portfolio:  
 https://khaliltechprofile.vercel.app/
 
 ---
 
-## 🧠 Strong CS Foundation
+## 🧠 Core Strengths
 
-💪 Core Strengths:
-
-- 🧮 Mathematics (Logic + Problem Solving)
-- 💻 Operating Systems
-- 🌐 Computer Networks
-- 🧠 Data Structures & Algorithms
-- 🔐 Cyber Security Basics
+- 🧮 Mathematics & Problem Solving  
+- 💻 Operating Systems (Linux Focus)  
+- 🌐 Computer Networks  
+- 🧠 Data Structures & Algorithms  
+- 🔐 Cyber Security Fundamentals  
 
 ---
 
 ## ⚙️ Currently Learning
 
-- ☁️ Cloud Computing (AWS / Azure)
-- ⚙️ DevSecOps (CI/CD Pipelines)
-- 🐳 Docker & Containers
-- 🐧 Linux Administration
-- 🐍 Python Automation
-- 🔐 Cloud Security Practices
+- ☁️ AWS / Azure Cloud Computing  
+- ⚙️ DevSecOps (CI/CD Pipelines)  
+- 🐳 Docker & Containers  
+- 🐧 Linux Administration  
+- 🐍 Python Automation Scripts  
+- 🔐 Cloud Security Engineering  
 
 ---
 
-## 🎯 Career Vision
+## 🎯 Career Goal
 
 🔥 Become a **DevSecOps + Cloud Security Engineer**  
-⚡ Build secure, scalable, automated cloud systems  
-☁️ Work with real-world production cloud infrastructure  
+☁️ Build scalable, automated, secure cloud systems  
+⚡ Work with real-world production infrastructure  
 
 ---
 
@@ -60,25 +56,25 @@ https://khaliltechprofile.vercel.app/
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,html,git,github,linux,vscode,docker" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,html,git,github,linux,docker,vscode" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats (Live Glow)
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=khalilcui&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khalilcui&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilcui&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilcui&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Contribution Streak (Neon Effect)
 
 <div align="center">
 
@@ -88,7 +84,7 @@ https://khaliltechprofile.vercel.app/
 
 ---
 
-## 📈 Activity Graph (Moving Look)
+## 📈 Activity Graph (Animated Flow)
 
 <div align="center">
 
@@ -98,7 +94,7 @@ https://khaliltechprofile.vercel.app/
 
 ---
 
-## 🐍 Contribution Snake (🔥 MUST HAVE)
+## 🐍 Contribution Snake (WOW EFFECT)
 
 <div align="center">
 
@@ -108,7 +104,7 @@ https://khaliltechprofile.vercel.app/
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies (Elite Look)
 
 <div align="center">
 
@@ -134,7 +130,7 @@ https://khaliltechprofile.vercel.app/
 
 ---
 
-## 👀 Profile Views
+## 👀 Profile Views (Glow Counter)
 
 <div align="center">
 
@@ -144,11 +140,11 @@ https://khaliltechprofile.vercel.app/
 
 ---
 
-## 💬 Quote
+## 💬 Final Quote
 
 <div align="center">
 
-🔥 “Build. Break. Learn. Repeat.” 🔥  
+⚡ “Think like an attacker, build like an engineer, secure like a DevSecOps pro.” ⚡  
 
 </div>
 
@@ -158,6 +154,6 @@ https://khaliltechprofile.vercel.app/
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:302b63&height=140&section=footer"/>
 
-### ⭐ Thanks for visiting my profile ⭐
+### 🚀 Thanks for visiting my cyber world 🚀
 
 </div>
