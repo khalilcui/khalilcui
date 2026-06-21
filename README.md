@@ -1,89 +1,84 @@
 <div align="center">
 
-# 🚀 Khalil Ullah
+# ⚡ Khalil Ullah
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=DevSecOps+Engineer+in+Progress;Cloud+Security+Enthusiast;Computer+Science+Student;Python+%26+C%2B%2B+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=DevSecOps+Engineer+in+Progress;Cloud+Security+Enthusiast;Future+Cloud+Architect;Python+%26+C%2B%2B+Developer;Building+Secure+Systems+%F0%9F%94%92" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A5ACD&height=200&section=header&text=Welcome%20To%20My%20GitHub%20Profile&fontSize=35&fontColor=ffffff"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63,200:24243e&height=220&section=header&text=Welcome%20To%20My%20Digital%20Space&fontSize=35&fontColor=00F7FF&animation=fadeIn"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+## 🌌 About Me
 
 🎓 BCS Student at COMSATS University Islamabad, Wah Campus  
 
-💡 Passionate about Software Development, DevSecOps, Cloud Computing, and Cyber Security  
+💡 Passionate about **DevSecOps, Cloud Computing & Cyber Security**
 
-🚀 I love building projects, solving problems, and exploring new technologies  
+🚀 I build projects, break things, fix them, and learn from everything
 
 🌐 Portfolio:  
 https://khaliltechprofile.vercel.app/
 
 ---
 
-# 📚 Strong CS Foundation
+## 🧠 Strong CS Foundation
 
-💪 I have strong understanding of core Computer Science subjects:
+💪 Core Strengths:
 
-- 🧮 Mathematics (Discrete Math, Problem Solving, Logic Building)
+- 🧮 Mathematics (Logic + Problem Solving)
 - 💻 Operating Systems
 - 🌐 Computer Networks
 - 🧠 Data Structures & Algorithms
-- 🔐 Cyber Security Fundamentals
+- 🔐 Cyber Security Basics
 
 ---
 
-# 🌱 Currently Learning
+## ⚙️ Currently Learning
 
-- ⚙️ DevSecOps (CI/CD, Automation)
-- ☁️ Cloud Computing (AWS / Azure basics)
+- ☁️ Cloud Computing (AWS / Azure)
+- ⚙️ DevSecOps (CI/CD Pipelines)
+- 🐳 Docker & Containers
 - 🐧 Linux Administration
-- 🐳 Docker
 - 🐍 Python Automation
-- 🔐 Cloud Security
+- 🔐 Cloud Security Practices
 
 ---
 
-# 🎯 Career Goal
+## 🎯 Career Vision
 
-Become a **DevSecOps Engineer & Cloud Security Professional**  
-specialized in building **secure, scalable, and automated cloud systems**.
+🔥 Become a **DevSecOps + Cloud Security Engineer**  
+⚡ Build secure, scalable, automated cloud systems  
+☁️ Work with real-world production cloud infrastructure  
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,html,git,github,vscode,linux" />
-
-</div>
-
-- 💻 C++
-- ☕ Java
-- 🐍 Python
-- 🌐 HTML
-- 🔍 Prolog
-- 🐧 Linux
-- 🔧 Git & GitHub
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khalilcui&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilcui&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,html,git,github,linux,vscode,docker" />
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=khalilcui&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilcui&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
 
 <div align="center">
 
@@ -93,79 +88,67 @@ specialized in building **secure, scalable, and automated cloud systems**.
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Activity Graph (Moving Look)
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=khalilcui&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khalilcui&theme=react-dark&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🐍 Contribution Snake (🔥 MUST HAVE)
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=khalilcui&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github.com/khalilcui/khalilcui/blob/output/github-contribution-grid-snake.svg" />
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+## 🏆 GitHub Trophies
 
-### 🌐 Portfolio Website
-Modern animated portfolio showcasing skills, projects, and certificates.  
-🔗 https://khaliltechprofile.vercel.app/
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=khalilcui&theme=matrix&no-frame=true&row=1&column=7"/>
 
-### 💼 Employee Management System
-C++ console-based system using file handling, structures, and arrays.
+</div>
 
 ---
 
-### 🔐 DevSecOps & Cyber Security Journey
-Projects and learning covering:
-- Linux
-- Security basics
-- Automation
-- Cloud concepts
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/khalilcui">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://khaliltechprofile.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-00CFFF?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black">
 </a>
 
 </div>
 
 ---
 
-# 👀 Profile Views
+## 👀 Profile Views
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=khalilcui&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=khalilcui&color=00f7ff&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 💬 Quote
+## 💬 Quote
 
 <div align="center">
 
-“Security is not a product, it’s a process.”
+🔥 “Build. Break. Learn. Repeat.” 🔥  
 
 </div>
 
@@ -173,7 +156,7 @@ Projects and learning covering:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00F7FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:302b63&height=140&section=footer"/>
 
 ### ⭐ Thanks for visiting my profile ⭐
 
